@@ -5,4 +5,4 @@ case
 	else salary
 end 
 as 'bonus'
-from Employees
+from Employees;
